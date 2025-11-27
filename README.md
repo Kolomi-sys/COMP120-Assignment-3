@@ -37,10 +37,6 @@ The system uses keyword detection, scoring logic, and color-coded output to help
 | SFP-7 | (Sprint 2) Train ML model |
 | SFP-8 | (Sprint 2) Save analyzed headlines |
 
----
-
-# User Stories (Expandable — Jira Style)
-
 ## ► Sprint 1 User Stories
 
 ---
